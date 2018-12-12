@@ -1,0 +1,11 @@
+C:\Users\Med\source\repos\EvaluationDotNET\EvaluationDotNET\obj\Debug\EvaluationDotNET.csprojAssemblyReference.cache
+C:\Users\Med\source\repos\EvaluationDotNET\EvaluationDotNET\obj\Debug\EvaluationDotNET.AddPerson.resources
+C:\Users\Med\source\repos\EvaluationDotNET\EvaluationDotNET\obj\Debug\EvaluationDotNET.DisplayPersons.resources
+C:\Users\Med\source\repos\EvaluationDotNET\EvaluationDotNET\obj\Debug\EvaluationDotNET.Properties.Resources.resources
+C:\Users\Med\source\repos\EvaluationDotNET\EvaluationDotNET\obj\Debug\EvaluationDotNET.csproj.GenerateResource.cache
+C:\Users\Med\source\repos\EvaluationDotNET\EvaluationDotNET\obj\Debug\EvaluationDotNET.csproj.CoreCompileInputs.cache
+C:\Users\Med\source\repos\EvaluationDotNET\EvaluationDotNET\bin\Debug\EvaluationDotNET.exe.config
+C:\Users\Med\source\repos\EvaluationDotNET\EvaluationDotNET\bin\Debug\EvaluationDotNET.exe
+C:\Users\Med\source\repos\EvaluationDotNET\EvaluationDotNET\bin\Debug\EvaluationDotNET.pdb
+C:\Users\Med\source\repos\EvaluationDotNET\EvaluationDotNET\obj\Debug\EvaluationDotNET.exe
+C:\Users\Med\source\repos\EvaluationDotNET\EvaluationDotNET\obj\Debug\EvaluationDotNET.pdb
